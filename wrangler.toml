@@ -29,7 +29,7 @@ assets = { directory = ".open-next/assets", binding = "ASSETS" }
 # 部署后通过 env.KV 访问
 [[kv_namespaces]]
 binding = "KV"
-id = "ed48271f92b941579785d6375e396d83"
+id = "dc2197959b2348a49c5ea2f388ce01af"
 
 # ---- 环境变量 ----
 # ADMIN_SECRET: 管理员登录密钥，必须配置
